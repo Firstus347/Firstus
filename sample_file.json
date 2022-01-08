@@ -1,0 +1,800 @@
+[
+  {
+    "id": 1,
+    "question": "Simplify 0.000215 x 0.000028 and express	your answer in standard form. ",
+    "answers": {
+      "a": "6.03 x 109",
+      "b": "6.02 x 109",
+      "c": "6.03 x 10-9",
+      "d": "6.02 x 10-9"
+    },
+    "diagram": null,
+    "correct_option": "d",
+    "tutorial": {
+      "1": "Explanation one",
+      "2": "Explanation two"
+    }
+  },
+  {
+    "id": 2,
+    "question": "Factorize x + y – ax – ay ",
+    "answers": {
+      "a": "(x – y ) (1 – a)",
+      "b": "(x + y ) (1 – a)",
+      "c": "(x + y ) (1 – a)",
+      "d": "(x – y ) (1 + a)"
+    },
+    "diagram": null,
+    "correct_option": "c",
+    "tutorial": {
+      "1": "Explanation one",
+      "2": "Explanation two"
+    }
+  },
+  {
+    "id": 3,
+    "question": "In the diagram, ∠PSR = 22⁰, ∠SPQ = 58⁰ and ∠PQR = 41⁰. Calculate the obtuse angle QRS.",
+    "answers": {
+      "a": "99⁰	",
+      "b": "100⁰",
+      "c": "121⁰",
+      "d": "165⁰"
+    },
+    "diagram": "2010 Question3.png",
+    "correct_option": "c",
+    "tutorial": {
+      "1": "Explanation one",
+      "2": "Explanation two"
+    }
+  },
+  {
+    "id": ,
+    "instruction": "The bar chart shows the mark distribution in an English Test. USe it to and questions 4 and 5",
+    "diagram": "2010 Instruction Graph",
+    }
+  },
+   {
+    "id": 4,
+    "question": "If 50% is the pass mark, how many students passed the test?",
+    "answers": {
+      "a": "100",
+      "b": "85",
+      "c": "80",
+      "d": "70"
+    },
+    "diagram": "null",
+    "correct_option": "b",
+    "tutorial": {
+      "1": "Explanation one",
+      "2": "Explanation two"
+    }
+  },
+    {
+    "id": 5,
+    "question": "What percentage of students marks ranging from 35 to 50?",
+    "answers": {
+      "a": "551/3%",
+      "b": "60%",
+      "c": "65%",
+      "d": "662/3%"
+    },
+    "diagram": "null",
+    "correct_option": "d",
+    "tutorial": {
+      "1": "Explanation one",
+      "2": "Explanation two"
+    }
+  },
+  {
+    "id": 6,
+    "question": "A car uses one litre of petrol for every 14km. if one litre of petrol costs N63.00, how far can the car go with N900.00 worth of petrol?",
+    "answers": {
+      "a": "420km",
+      "b": "405km",
+      "c": "210km",
+      "d": "200km"
+    },
+    "diagram": "null",
+    "correct_option": "d",
+    "tutorial": {
+      "1": "Explanation one",
+      "2": "Explanation two"
+    }
+  },
+    {
+    "id": 7,
+    "question": "Correct 0.002473 to 3 significant figures.",
+    "answers": {
+      "a": "0.002",
+      "b": "0.0024",
+      "c": "0.00247",
+      "d": "0.0025"
+    },
+    "diagram": "null",
+    "correct_option": "c",
+    "tutorial": {
+      "1": "Explanation one",
+      "2": "Explanation two"
+    }
+  },
+    {
+    "id": 8,
+    "question": "Simplify  11/3 +   21/3 x  3/4 -  1/3",
+    "answers": {
+      "a": "-21/3",
+      "b": "-21/4",
+      "c": "21/8",
+      "d": "23/4"
+    },
+    "diagram": "null",
+    "correct_option": "d",
+    "tutorial": {
+      "1": "Explanation one",
+      "2": "Explanation two"
+    }
+  },
+	{
+	"id": 9,
+    "question": "The sum of 2 consecutive whole numbers is 5/6 of their product. Find the number",
+    "answers": {
+      "a": "3, 4",
+      "b": "1, 2",
+      "c": "2, 3",
+      "d": "0, 1"
+    },
+    "diagram": "null",
+    "correct_option": "c",
+    "tutorial": {
+      "1": "Explanation one",
+      "2": "Explanation two"
+    }
+  },
+  	{
+	"id": 10,
+    "question": "",
+    "answers": {
+      "a": "20",
+      "b": "30",
+      "c": "40",
+      "d": "50"
+    },
+    "diagram": "2010 Question 10.png",
+    "correct_option": "b",
+    "tutorial": {
+      "1": "Explanation one",
+      "2": "Explanation two"
+    }
+  },
+  {
+	"id": 11,
+    "question": "In the diagram, QR//S, /PQ/ = /PR/ and ∠PST = 75⁰.  Find the value of y.",
+    "answers": {
+      "a": "105",
+      "b": "110",
+      "c": "130",
+      "d": "150"
+    },
+    "diagram": "2010 Question 11.png",
+    "correct_option": "a",
+    "tutorial": {
+      "1": "Explanation one",
+      "2": "Explanation two"
+    }
+  },
+   {
+	"id": 12,
+    "question": "A casting is made up of Copper and Zinc. If 65% of the casting is Zinc and there are 147g of Copper, what is the mass of the casting?",
+    "answers": {
+      "a": "320g",
+      "b": "420g",
+      "c": "520g",
+      "d": "620g"
+    },
+    "diagram": "null",
+    "correct_option": "b",
+    "tutorial": {
+      "1": "Explanation one",
+      "2": "Explanation two"
+    }
+  },
+  	"id": 13,
+    "question": "Given that P = {x: 1 ≤ x ≤ 6} and Q = {x: 2 < x < 10}, where x is an integer. Find n(P ∩ Q)",
+    "answers": {
+      "a": "4",
+      "b": "6",
+      "c": "8",
+      "d": "10"
+    },
+    "diagram": "null",
+    "correct_option": "a",
+    "tutorial": {
+      "1": "Explanation one",
+      "2": "Explanation two"
+    }
+  },
+     {
+	"id": 14,
+    "question": "The sum of 6 and one-third of x is one more than twice of x. Find x.",
+    "answers": {
+      "a": "x=7",
+      "b": "x=5",
+      "c": "x=3",
+      "d": "x=2"
+    },
+    "diagram": "null",
+    "correct_option": "c",
+    "tutorial": {
+      "1": "Explanation one",
+      "2": "Explanation two"
+    }
+  },
+  	"id": 15,
+    "question": "Given that T= {x: -2 < x ≤ 9} where x is an integer. What is  n (T)?",
+    "answers": {
+      "a": "9",
+      "b": "10",
+      "c": "11",
+      "d": "12"
+    },
+    "diagram": "null",
+    "correct_option": "c",
+    "tutorial": {
+      "1": "Explanation one",
+      "2": "Explanation two"
+    }
+  },
+    {
+	"id": 16,
+    "question": "Solve the inequality: 3(x+1) ≤ 5(x+2) + 15",
+    "answers": {
+      "a": "x ≥ -14",
+      "b": "x ≤ -14",
+      "c": "x ≤ 11",
+      "d": "x ≥ -11"
+    },
+    "diagram": "null",
+    "correct_option": "d",
+    "tutorial": {
+      "1": "Explanation one",
+      "2": "Explanation two"
+    }
+  },
+   {
+	"id": 17,
+    "question": "An empty rectangular tank is 250cm long and 120cm wide. If 180 litres of water is poured into the tank, calculate the height of the water.",
+    "answers": {
+      "a": "6.0 cm",
+      "b": "5.5 cm",
+      "c": "5.0 cm",
+      "d": "4.5 cm"
+    },
+    "diagram": "null",
+    "correct_option": "a",
+    "tutorial": {
+      "1": "Explanation one",
+      "2": "Explanation two"
+    }
+  },
+  	"id": 18,
+    "question": "Given that	5n+2/252n-3 = 50, find n.",
+    "answers": {
+      "a": "n=1",
+      "b": "n=2",
+      "c": "n=3",
+      "d": "n=5"
+    },
+    "diagram": "null",
+    "correct_option": "c",
+    "tutorial": {
+      "1": "Explanation one",
+      "2": "Explanation two"
+    }
+  },
+     {
+	"id": 19,
+    "question": "The table shows the number of pets kept by 30 students in a class. If a student is picked at random from the class, what is the probability that he or she kept more than one pet?",
+    "answers": {
+      "a": "1/5",
+      "b": "2/5",
+      "c": "3/5",
+      "d": "4/5"
+    },
+    "diagram": "2010 Question 19",
+    "correct_option": "c",
+    "tutorial": {
+      "1": "Explanation one",
+      "2": "Explanation two"
+    }
+  },
+  	"id": 20,
+    "question": "Simplify:  2√3 - 6/√3 + 3/√27",
+    "answers": {
+      "a": "1",
+      "b": "2/5 √3",
+      "c": "2√3 - 53/5",
+      "d": "6√3 – 17"
+    },
+    "diagram": "null",
+    "correct_option": "b",
+    "tutorial": {
+      "1": "Explanation one",
+      "2": "Explanation two"
+    }
+  },
+     {
+	"id": 21,
+    "question": "In the diagram, triangles HKL and HIJ are similar. Which of the following ratio is equal to LH/JH",
+    "answers": {
+      "a": "KL/JI",
+      "b": "HK/JK",
+      "c": "JI/KL",
+      "d": "HK/LK"
+    },
+    "diagram": "2010 Question 21",
+    "correct_option": "a",
+    "tutorial": {
+      "1": "Explanation one",
+      "2": "Explanation two"
+    }
+  },
+  	"id": 22,
+    "question": "In the diagram, the tangent MN makes an angle of 55 with chord PS. If O is the centre of the circle find ∠RPS.",
+    "answers": {
+      "a": "55",
+      "b": "45",
+      "c": "35",
+      "d": "25"
+    },
+    "diagram": "2010 Question 22",
+    "correct_option": "c",
+    "tutorial": {
+      "1": "Explanation one",
+      "2": "Explanation two"
+    }
+  },  
+       {
+	"id": 23,
+    "question": "Simplify 2/(2+x) + 2/(2-x)",
+    "answers": {
+      "a": "4/(4- x2)",
+      "b": "8/(4- x2)",
+      "c": "4x/(4- x2)",
+      "d": "(8-4x)/(4- x2)"
+    },
+    "diagram": "null",
+    "correct_option": "b",
+    "tutorial": {
+      "1": "Explanation one",
+      "2": "Explanation two"
+    }
+  },
+  	"id": 24,
+    "question": "A rectangle has length xcm and width (x-1)cm. If the perimeter is 16cm, find the value of x",
+    "answers": {
+      "a": "31/3 cm",
+      "b": "4 cm",
+      "c": "41/2 cm",
+      "d": "5 cm"
+    },
+    "diagram": "null",
+    "correct_option": "c",
+    "tutorial": {
+      "1": "Explanation one",
+      "2": "Explanation two"
+    }
+  },  
+       {
+	"id": 25,
+    "question": "Given that tan x = 1, where 0⁰ ≤ x ≤ 90⁰, evaluate 1 - sin2x/cosx",
+    "answers": {
+      "a": "2√2",
+      "b": "√2",
+      "c": "√2/2",
+      "d": "1/2"
+    },
+    "diagram": "null",
+    "correct_option": "c",
+    "tutorial": {
+      "1": "Explanation one",
+      "2": "Explanation two"
+    }
+  },
+  	"id": 26,
+    "question": "If sin 3y = cos 2y and 0⁰ ≤ y ≤ 90⁰, find the value of y.",
+    "answers": {
+      "a": "18⁰",
+      "b": "36⁰",
+      "c": "54⁰",
+      "d": "90⁰"
+    },
+    "diagram": "null",
+    "correct_option": "a",
+    "tutorial": {
+      "1": "Explanation one",
+      "2": "Explanation two"
+    }
+  },  
+  {
+	"id": 27,
+    "question": "The sum of the exterior angles of an n-sided convex polygon is half the sum of its interior angles. Find n.",
+    "answers": {
+      "a": "6",
+      "b": "8",
+      "c": "9",
+      "d": "12"
+    },
+    "diagram": "null",
+    "correct_option": "a",
+    "tutorial": {
+      "1": "Explanation one",
+      "2": "Explanation two"
+    }
+  },
+  {
+	"id": 28,
+    "question": "What is the length of a rectangular garden whose perimeter is 32 cm and area 39 cm2?",
+    "answers": {
+      "a": "25cm",
+      "b": "18cm",
+      "c": "13cm",
+      "d": "9cm"
+    },
+    "diagram": "null",
+    "correct_option": "c",
+    "tutorial": {
+      "1": "Explanation one",
+      "2": "Explanation two"
+    }
+  },
+   {
+	"id": 29,
+    "question": "If y =  (2(√(x^2-m)))/3n, make x the subject of the formula.",
+    "answers": {
+      "a": "√(〖9y〗^2 N^2-2m)/2	",
+      "b": "√(〖9y〗^2 N^2+2m)/2",
+      "c": "√(〖9y〗^2 N^2-4m)/2",
+      "d": "√(〖9y〗^2 N^2+4m)/2"
+    },
+    "diagram": "null",
+    "correct_option": "c",
+    "tutorial": {
+      "1": "Explanation one",
+      "2": "Explanation two"
+    }
+  },
+  	"id": 30,
+    "question": "The nth term of a sequence: - 2, 4, -, 16, …. Is given by ______",
+    "answers": {
+      "a": "Tn = 2n",
+      "b": "Tn = (-2)n",
+      "c": "Tn = (-2n)",
+      "d": "Tn = n2"
+    },
+    "diagram": "null",
+    "correct_option": "b",
+    "tutorial": {
+      "1": "Explanation one",
+      "2": "Explanation two"
+    }
+  },
+     {
+	"id": 31,
+    "question": "In the diagram, O is the centre of the circle. ∠SQR = 600, ∠SPR = y and ∠SQR = 3x. Find the value of (x + y)",
+    "answers": {
+      "a": "110",
+      "b": "100",
+      "c": "80",
+      "d": "70"
+    },
+    "diagram": "2010 Question 31",
+    "correct_option": "c",
+    "tutorial": {
+      "1": "Explanation one",
+      "2": "Explanation two"
+    }
+  },
+  	"id": 32,
+    "question": "How many times, correct to the nearest whole number, will a man run round a circular track of diameter 100m to cover a distance of 1000m?",
+    "answers": {
+      "a": "3",
+      "b": "4",
+      "c": "5",
+      "d": "6"
+    },
+    "diagram": "null",
+    "correct_option": "a",
+    "tutorial": {
+      "1": "Explanation one",
+      "2": "Explanation two"
+    }
+  },
+    {
+	"id": 33,
+    "question": "The shaded portion in the diagram is the solution of __________ ",
+    "answers": {
+      "a": "x + y ≤ 3",
+      "b": "x + y < 3",
+      "c": "x + y > 3",
+      "d": "x + y ≥ 3"
+    },
+    "diagram": "2010 Question 33",
+    "correct_option": "b",
+    "tutorial": {
+      "1": "Explanation one",
+      "2": "Explanation two"
+    }
+  },
+   {
+	"id": 34,
+    "question": "In the diagram, /EF/ = 8cm, /FG/ = x cm, /GH/ = (x+2) cm, ∠EFC = 900. If the area of the shaded portion is 400cm2, find the area of ∠EFG.",
+    "answers": {
+      "a": "128cm2",
+      "b": "72cm2",
+      "c": "64cm2",
+      "d": "32cm2"
+    },
+    "diagram": "2010 Question 34",
+    "correct_option": "d",
+    "tutorial": {
+      "1": "Explanation one",
+      "2": "Explanation two"
+    }
+  },
+  	"id": 35,
+    "question": "In the diagram, GI is a tangent to the circle at H. if EFI/GI, calculate the size of ∠EHF?",
+    "answers": {
+      "a": "126",
+      "b": "72",
+      "c": "54",
+      "d": "28"
+    },
+    "diagram": "2010 Question 35",
+    "correct_option": "b",
+    "tutorial": {
+      "1": "Explanation one",
+      "2": "Explanation two"
+    }
+  },
+     {
+	"id": 36,
+    "question": "Bala sold an article for  ₦6,900.00 and made a profit of 15%. If he sold it for ₦6,600.00, he would make a  ______",
+    "answers": {
+      "a": "profit of 13%",
+      "b": "loss of 12%",
+      "c": "profit of 10%",
+      "d": "loss of 5%"
+    },
+    "diagram": "null",
+    "correct_option": "c",
+    "tutorial": {
+      "1": "Explanation one",
+      "2": "Explanation two"
+    }
+  },
+  	"id": 37,
+    "question": "In the diagram above, ∠ROS = 660 and ∠POQ = 3x. Some construction lines are shown. Calculate the value of x.",
+    "answers": {
+      "a": "10",
+      "b": "20",
+      "c": "22",
+      "d": "28"
+    },
+    "diagram": "2010 Question 37",
+    "correct_option": "b",
+    "tutorial": {
+      "1": "Explanation one",
+      "2": "Explanation two"
+    }
+  },
+     {
+	"id": 38,
+    "question": "The mean age of R men in a club is 50 years. Two men, aged 55 and 63, left the club and the mean age reduced by 1year. Find the value of R",
+    "answers": {
+      "a": "18",
+      "b": "20",
+      "c": "22",
+      "d": "28"
+    },
+    "diagram": "null",
+    "correct_option": "b",
+    "tutorial": {
+      "1": "Explanation one",
+      "2": "Explanation two"
+    }
+  },
+  {
+    "id": ,
+    "instruction": "The bar chart shows the mark distribution in an English Test. USe it to and questions 4 and 5",
+    "diagram": "2010 Table",
+    },
+	{
+  	"id": 39,
+    "question": "What is the equation of the line described in the table?",
+    "answers": {
+      "a": "y = 2x",
+      "b": "y = x + 1",
+      "c": "y = x",
+      "d": "y = 1/2 x+1"
+    },
+    "diagram": "null",
+    "correct_option": "d",
+    "tutorial": {
+      "1": "Explanation one",
+      "2": "Explanation two"
+    }
+  },  
+    {
+	"id": 40,
+    "question": "What is the value of x when y = 5",
+    "answers": {
+      "a": "8",
+      "b": "9",
+      "c": "10",
+      "d": "11"
+    },
+    "diagram": "null",
+    "correct_option": "a",
+    "tutorial": {
+      "1": "Explanation one",
+      "2": "Explanation two"
+    }
+  },
+  	"id": 41,
+    "question": "The diagram is a net of a right rectangular pyramid. Calculate the total surface area.",
+    "answers": {
+      "a": "208 cm2",
+      "b": "112 cm2",
+      "c": "92 cm2",
+      "d": "76 cm2"
+    },
+    "diagram": "2010 Question 41",
+    "correct_option": "c",
+    "tutorial": {
+      "1": "Explanation one",
+      "2": "Explanation two"
+    }
+  },  
+    {
+	"id": 42,
+    "question": "The diagram shows a rectangular cardboard from which a semi-circle is cut off. Calculate the area of the remaining part.",
+    "answers": {
+      "a": "44 cm2",
+      "b": "99 cm2",
+      "c": "154 cm2",
+      "d": "165 cm2"
+    },
+    "diagram": "null",
+    "correct_option": "b",
+    "tutorial": {
+      "1": "Explanation one",
+      "2": "Explanation two"
+    }
+  },
+  	"id": 43,
+    "question": "The subtraction below is in base seven. Find the missing number.",
+    "answers": {
+      "a": "2",
+      "b": "3",
+      "c": "4",
+      "d": "5"
+    },
+    "diagram": "2010 Question 43",
+    "correct_option": "a",
+    "tutorial": {
+      "1": "Explanation one",
+      "2": "Explanation two"
+    }
+  }, 
+  {
+  	"id": 44,
+    "question": "In the diagram, O is the centre of the circle. Find the value of x",
+    "answers": {
+      "a": "34",
+      "b": "39",
+      "c": "17",
+      "d": "14"
+    },
+    "diagram": "2010 Question 44",
+    "correct_option": "d",
+    "tutorial": {
+      "1": "Explanation one",
+      "2": "Explanation two"
+    }
+  },  
+	{
+	"id": 45,
+    "question": "If the sum of the roots of the equation (x – p)(2x + 1) = 0 is 1, find the value of p.",
+    "answers": {
+      "a": "11/2",
+      "b": "1/2",
+      "c": "-1/2",
+      "d": "-11/2"
+    },
+    "diagram": "2010 Question 44",
+    "correct_option": "b",
+    "tutorial": {
+      "1": "Explanation one",
+      "2": "Explanation two"
+    }
+  },  
+  	{
+	"id": 46,
+    "question": "In the diagram, and ∠WOX = 600, ∠YOE = 500 and ∠OXY = 300. What is the bearing of x and y",
+    "answers": {
+      "a": "300",
+      "b": "240",
+      "c": "190",
+      "d": "150"
+    },
+    "diagram": "2010 Question 46",
+    "correct_option": "a",
+    "tutorial": {
+      "1": "Explanation one",
+      "2": "Explanation two"
+    }
+  },  
+	{
+	"id": 47,
+    "question": "In an athletics competition, the probability that an athlete wins a 100m race is  1/8 and the probability that he wins in high jump is1/4. What is the probability that he wins only one of the events?",
+    "answers": {
+      "a": "3/32",
+      "b": "3/16",
+      "c": "7/32",
+      "d": "5/16"
+    },
+    "diagram": "null",
+    "correct_option": "d",
+    "tutorial": {
+      "1": "Explanation one",
+      "2": "Explanation two"
+    }
+  },  
+	{
+	"id": 48,
+    "question": "If x2 + kx + 16/9 is a perfect square, find the value of x.",
+    "answers": {
+      "a": "8/3",
+      "b": "7/3",
+      "c": "5/3",
+      "d": "2/3"
+    },
+    "diagram": "null",
+    "correct_option": "a",
+    "tutorial": {
+      "1": "Explanation one",
+      "2": "Explanation two"
+    }
+  },  
+  	{
+	"id": 49,
+    "question": "49.	If x kmh-1 = y ms-1, then y  = _______",
+    "answers": {
+      "a": "7/18x",
+      "b": "11/20x",
+      "c": "4/15",
+      "d": "5/18x"
+    },
+    "diagram": "null",
+    "correct_option": "d",
+    "tutorial": {
+      "1": "Explanation one",
+      "2": "Explanation two"
+    }
+  },  
+    {
+	"id": 50,
+    "question": "The mean of the numbers 2, 5, 2x and 7 is less than or equal to 5. Find the range of the values of x.",
+    "answers": {
+      "a": "x ≤ 3",
+      "b": "x ≥ 3",
+      "c": "x < 3",
+      "d": "x > 3"
+    },
+    "diagram": "null",
+    "correct_option": "d",
+    "tutorial": {
+      "1": "Explanation one",
+      "2": "Explanation two"
+    }
+  },  
+]
